@@ -1,0 +1,49 @@
+{
+    "tests": 
+    {
+        "GetSitesToVisit": 
+        {
+            "getTrainingSites": 
+            {
+                "file": "~/HB/TrackingProject/src/crawling/getSitesToVisit.py",
+                "test_file": "~/HB/TrackingProject/src/test/test_GetSitesToVisit",
+                "test_name": "test_GetSitesToVisit_getTrainingSites",
+                "param_info": 
+                {
+                    "sitesToVisit_path":
+                    [   "alexa_top_fifty_per_category"
+                    ], 
+
+                    "volume":[1,2,3,4,5,6,7,8,9,10], 
+
+                    "intent":["NO_INTENT", "INTENT"],
+                    "category":
+                    [   "Adult",
+                        "Arts",
+                        "Business",
+                        "Computers",
+                        "Games",
+                        "Health",
+                        "Home",
+                        "KidsAndTeens",
+                        "News",
+                        "Recreation",
+                        "Reference",
+                        "Regional",
+                        "Science",
+                        "Shopping",
+                        "Society",
+                        "Sports"
+                    ],
+                    "crawl_type": 
+                    [   "AB_TRAIN", 
+                        "ML_TRAIN"
+                    ]
+                }
+            }
+        }
+
+        
+    }
+
+}

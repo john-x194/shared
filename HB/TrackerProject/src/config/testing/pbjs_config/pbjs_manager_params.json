@@ -1,0 +1,10 @@
+{
+    "data_directory": "~/headerBidding/TrackingProject/results/owpm/pbjs/",
+    "log_directory":  "~/headerBidding/TrackingProject/results/owpm/pbjs/",
+    "output_format": "local",
+    "database_name": "crawl-data-pbjs.sqlite",
+    "log_file": "openwpm-pbjs.log",
+    "failure_limit": null,
+    "testing": false,
+    "num_browsers": 1
+}

@@ -1,0 +1,12 @@
+{
+    "data_directory":"TrackingProject/results/owpm/testing/allow",
+    "log_directory": "TrackingProject/results/owpm/testing/allow",
+    "output_format": "local",
+    "database_name": "crawl-data-testing-allow.sqlite",
+    "log_file": "openwpm-testing-allow.log",
+    "failure_limit": null,
+    "testing": false,
+    "num_browsers":1
+    
+
+}

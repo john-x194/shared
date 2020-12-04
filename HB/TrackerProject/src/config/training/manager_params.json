@@ -1,0 +1,10 @@
+{
+    "data_directory": "",
+    "log_directory": "",
+    "output_format": "local",
+    "database_name": "crawl-data-training.sqlite",
+    "log_file": "openwpm-training.log",
+    "failure_limit": null,
+    "testing": false,
+    "num_browsers": 1
+}

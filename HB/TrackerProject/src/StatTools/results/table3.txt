@@ -1,0 +1,20 @@
+Categories& App.& Rub.& IX& Pub.& OpX.& Avg.& Std.\\
+Adult& 0.16\boldred{$^\downarrow$} & 0.43\boldred{$^\uparrow$} & 0.24 & 0.33 & 0.34 & 0.27 & 0.10 \\
+Arts& 0.32$^\uparrow$ & 0.45\boldred{$^\uparrow$} & 0.25\boldred{$^\downarrow$} & 0.36 & 0.37 & 0.34 & 0.06 \\
+Business& 0.28 & 0.45\boldred{$^\uparrow$} & 0.29 & 0.51\boldred{$^\uparrow$} & 0.30 & 0.35 & 0.09 \\
+Computers& 0.20 & 0.75\boldred{$^\uparrow$} & 0.21 & 0.73\boldred{$^\uparrow$}$^\uparrow$ & 0.55 & 0.43 & 0.25\boldred{$^\uparrow$} \\
+Games& 0.21 & 0.33\boldred{$^\uparrow$} & 0.20 & 0.25$^\downarrow$ & 0.34\boldred{$^\uparrow$} & 0.25 & 0.06 \\
+Health& 0.20\boldred{$^\downarrow$} & 1.16\boldred{$^\uparrow$}$^\uparrow$ & 0.67$^\uparrow$ & 0.54 & 0.94$^\uparrow$ & 0.63\boldred{$^\uparrow$} & 0.36\boldred{$^\uparrow$} \\
+Home& 0.20 & 0.39\boldred{$^\uparrow$} & 0.23 & 0.28$^\downarrow$ & 0.28$^\downarrow$ & 0.26 & 0.07 \\
+Kids&Teens& 0.15$^\downarrow$ & 0.41\boldred{$^\uparrow$} & 0.18 & 0.30 & 0.47\boldred{$^\uparrow$} & 0.27 & 0.13 \\
+News& 0.19 & 0.61\boldred{$^\uparrow$} & 0.24 & 0.33 & 0.41 & 0.32 & 0.15 \\
+Recreation& 0.29 & 0.67\boldred{$^\uparrow$} & 0.27 & 0.44 & 0.36 & 0.39 & 0.15 \\
+Reference& 0.17 & 0.53\boldred{$^\uparrow$} & 0.20 & 0.58\boldred{$^\uparrow$}$^\uparrow$ & 0.52\boldred{$^\uparrow$} & 0.34 & 0.18 \\
+Regional& 0.22 & 0.43 & 0.28 & 0.35 & 0.73\boldred{$^\uparrow$}$^\uparrow$ & 0.36 & 0.17 \\
+Science& 0.28 & 0.70\boldred{$^\uparrow$} & 0.28 & 0.58$^\uparrow$ & 0.44 & 0.43 & 0.17 \\
+Shopping& 0.42$^\uparrow$ & 0.56\boldred{$^\uparrow$} & 0.39\boldred{$^\downarrow$}$^\uparrow$ & 0.60\boldred{$^\uparrow$}$^\uparrow$ & 0.47 & 0.48\boldred{$^\uparrow$} & 0.08 \\
+Society& 0.21\boldred{$^\downarrow$} & 0.41\boldred{$^\uparrow$} & 0.28 & 0.37 & 0.45\boldred{$^\uparrow$} & 0.31 & 0.09 \\
+Sports& 0.17 & 0.35\boldred{$^\uparrow$} & 0.13\boldred{$^\downarrow$}$^\downarrow$ & 0.30\boldred{$^\uparrow$} & 0.23$^\downarrow$ & 0.22\boldred{$^\downarrow$} & 0.08 \\
+Control& 0.18 & 0.26$^\downarrow$ & 0.28 & 0.37\boldred{$^\uparrow$} & 0.44\boldred{$^\uparrow$} & 0.27 & 0.09 \\
+Avg.& 0.23$^\downarrow$ & 0.54$^\uparrow$ & 0.27 & 0.44 & 0.45 & \boldred{0.35} & \textbf{0.39}  \\
+Std.& 0.07$^\downarrow$ & 0.21$^\uparrow$ & 0.11$^\downarrow$ & 0.14$^\uparrow$ & 0.17$^\uparrow$ & \boldred{0.10} & \textbf{0.14}  \\

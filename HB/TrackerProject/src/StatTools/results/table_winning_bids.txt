@@ -1,0 +1,20 @@
+Categories& App.& Rub.& IX& Pub.& OpX.& Avg.& Std.\\
+Adult& 3.20$^\uparrow$ & 0.86\boldred{$^\downarrow$} & 2.87 & 5.94\boldred{$^\uparrow$} & 0.72\boldred{$^\downarrow$} & 2.32 & 1.39 \\
+Arts& 1.88 & 0.86 & 0.87$^\downarrow$ & 10.8\boldred{$^\uparrow$}$^\uparrow$ & 0.94 & 1.84 & 2.48\boldred{$^\uparrow$} \\
+Business& 2.14\boldred{$^\uparrow$} & 0.86\boldred{$^\downarrow$} & 1.76 & 0.00\boldred{$^\downarrow$}$^\downarrow$ & 1.84 & 1.52 & 0.55\boldred{$^\downarrow$} \\
+Computers& 1.06\boldred{$^\downarrow$} & 2.81 & 2.72 & 1.50$^\downarrow$ & 0.34\boldred{$^\downarrow$} & 2.20 & 0.86 \\
+Games& 0.68 & 1.92 & 1.16 & 2.58\boldred{$^\uparrow$}$^\downarrow$ & 4.48\boldred{$^\uparrow$} & 1.51 & 0.92 \\
+Health& 2.65$^\uparrow$ & 3.83$^\uparrow$ & 3.00$^\uparrow$ & 9.76\boldred{$^\uparrow$}$^\uparrow$ & 1.47\boldred{$^\downarrow$} & 3.99\boldred{$^\uparrow$} & 2.43\boldred{$^\uparrow$} \\
+Home& 0.58\boldred{$^\downarrow$} & 2.50 & 2.94$^\uparrow$ & 0.00\boldred{$^\downarrow$}$^\downarrow$ & 0.00\boldred{$^\downarrow$}$^\downarrow$ & 1.97 & 1.05 \\
+Kids&Teens& 2.84$^\uparrow$ & 0.86 & 0.30\boldred{$^\downarrow$}$^\downarrow$ & 5.94\boldred{$^\uparrow$} & 2.02 & 1.74 & 1.33 \\
+News& 0.61 & 2.92\boldred{$^\uparrow$}$^\uparrow$ & 1.17 & 4.86\boldred{$^\uparrow$} & 0.77 & 1.61 & 1.11 \\
+Recreation& 0.45\boldred{$^\downarrow$}$^\downarrow$ & 0.86 & 2.90$^\uparrow$ & 0.00\boldred{$^\downarrow$}$^\downarrow$ & 4.02\boldred{$^\uparrow$} & 1.75 & 1.20 \\
+Reference& 0.72 & 0.86 & 1.59 & 3.56\boldred{$^\uparrow$} & 2.73\boldred{$^\uparrow$} & 1.29\boldred{$^\downarrow$} & 0.71 \\
+Regional& 1.23 & 1.56 & 0.81$^\downarrow$ & 0.00$^\downarrow$ & 7.73\boldred{$^\uparrow$}$^\uparrow$ & 2.31 & 2.62\boldred{$^\uparrow$} \\
+Science& 2.45$^\uparrow$ & 3.56\boldred{$^\uparrow$}$^\uparrow$ & 2.11 & 0.00\boldred{$^\downarrow$}$^\downarrow$ & 1.60\boldred{$^\downarrow$} & 2.53 & 0.80 \\
+Shopping& 0.45\boldred{$^\downarrow$}$^\downarrow$ & 1.58 & 4.87\boldred{$^\uparrow$}$^\uparrow$ & 5.94\boldred{$^\uparrow$} & 0.88 & 2.56 & 2.02 \\
+Society& 2.14 & 4.00\boldred{$^\uparrow$}$^\uparrow$ & 2.87 & 0.94\boldred{$^\downarrow$}$^\downarrow$ & 3.29 & 2.73\boldred{$^\uparrow$} & 0.73 \\
+Sports& 1.11 & 0.86 & 1.36\boldred{$^\uparrow$} & 0.00\boldred{$^\downarrow$}$^\downarrow$ & 0.28\boldred{$^\downarrow$} & 1.03\boldred{$^\downarrow$} & 0.28\boldred{$^\downarrow$} \\
+Control& 0.66 & 0.86 & 2.71\boldred{$^\uparrow$} & 0.00\boldred{$^\downarrow$}$^\downarrow$ & 0.72 & 1.35 & 0.91 \\
+Avg.& 1.35 & 1.78 & 1.98 & 6.22$^\uparrow$ & 2.25 & \boldred{2.01} & \textbf{2.72}  \\
+Std.& 0.81$^\downarrow$ & 1.08$^\downarrow$ & 0.91$^\downarrow$ & 3.06$^\uparrow$ & 2.23$^\uparrow$ & \boldred{0.68} & \textbf{1.62}  \\

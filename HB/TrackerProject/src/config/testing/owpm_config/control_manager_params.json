@@ -1,0 +1,11 @@
+{
+    "data_directory":"~/headerBidding/TrackingProject/results/owpm/testing/control",
+    "log_directory": "~/headerBidding/TrackingProject/results/owpm/testing/control",
+    "output_format": "local",
+    "database_name": "crawl-data-testing-block.sqlite",
+    "log_file": "openwpm-testing-block.log",
+    "failure_limit": null,
+    "testing": false,
+    "num_browsers":1
+
+}
